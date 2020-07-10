@@ -1,16 +1,16 @@
 # Heart-Disease-Prediction
-1. Problem Definition
-Given clinical parameters about a patient, can we predict whether or not they have heart disease?
+## 1. Problem Definition
+> Given clinical parameters about a patient, can we predict whether or not they have heart disease?
 
-2. Data
+## 2. Data
 The original data came from the Cardiovascular Disease dataset-Kaggle.
 
 We use the independent variables to predict our dependent variable.
 
-3. Evaluation
+## 3. Evaluation
 If we can reach 80% accuracy at predicting whether or not a patient has heart disease during the proof of concept, we'll pursure this project.
 
-4. Features
+## 4. Features
 The following are the features we'll use to predict our target variable (heart disease or no heart disease).
 
 age - int (days)
