@@ -1,6 +1,6 @@
 # Heart-Disease-Prediction
 ## 1. Problem Definition
-> Given clinical parameters about a patient, can we predict whether or not they have heart disease?
+Given clinical parameters about a patient, can we predict whether or not they have heart disease?
 
 ## 2. Data
 The original data came from the Cardiovascular Disease dataset-Kaggle.
@@ -13,12 +13,12 @@ If we can reach 80% accuracy at predicting whether or not a patient has heart di
 ## 4. Features
 The following are the features we'll use to predict our target variable (heart disease or no heart disease).
 
-age - int (days)
-height - int (cm)
-weight - float (kg)
-gender - categorical code
-1: female
-2: male
+* age - int (days)
+* height - int (cm)
+* weight - float (kg)
+* gender - categorical code
+*   1: female
+*   2: male
 ap_hi - int (mg/dl) - Systolic blood pressure
 ap_lo - int (mg/dl) - Diastolic blood pressure
 cholesterol1: normal, 2: above normal, 3: well above normal
