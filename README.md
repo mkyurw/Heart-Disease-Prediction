@@ -28,4 +28,15 @@ The following are the features we'll use to predict our target variable (heart d
 * cardio - binary - Presence or absence of cardiovascular disease - (0: no, 1: yes)
 
 ## 5. Result
-<img src="models.png">
+<img src="img/models.png">
+
+## 6. Tuned model (XGBoost)
+<img src="img/imp_XGB.png">
+
+## 7. Evaluating a classification model
+### Confusion Matrix
+<img src="img/confMax.png">
+### ROC Curve and AUC Scores
+<img src="img/ROC.png">
+### Cross-Validated Metrics
+<img src="img/CV.png">
