@@ -16,28 +16,12 @@ The following are the features we'll use to predict our target variable (heart d
 * age - int (days)
 * height - int (cm)
 * weight - float (kg)
-* gender - categorical code
-*   1: female
-*   2: male
-ap_hi - int (mg/dl) - Systolic blood pressure
-ap_lo - int (mg/dl) - Diastolic blood pressure
-cholesterol1: normal, 2: above normal, 3: well above normal
-1: normal
-2: above normal
-3: well above normal
-gluc - Glucose
-1: normal
-2: above normal
-3: well above normal
-smoke - binary
-0: no
-1: yes
-alco - binary - Alcohol intake
-0: no
-1: yes
-active - binary - Physical activity
-0: no
-1: yes
-cardio - binary - Presence or absence of cardiovascular disease
-0: no
-1: yes
+* gender - categorical code - (1: female, 2: male)
+* ap_hi - int (mg/dl) - Systolic blood pressure
+* ap_lo - int (mg/dl) - Diastolic blood pressure
+* cholesterol - (1: normal, 2: above normal, 3: well above normal)
+* gluc - Glucose - (1: normal, 2: above normal, 3: well above normal)
+* smoke - binary - (0: no, 1: yes)
+* alco - binary - Alcohol intake - (0: no, 1: yes)
+* active - binary - Physical activity - (0: no, 1: yes)
+* cardio - binary - Presence or absence of cardiovascular disease - (0: no, 1: yes)
