@@ -36,9 +36,7 @@ The following are the features we'll use to predict our target variable (heart d
 ## 7. Evaluating a classification model
 ### Confusion Matrix
 <img src="img/confMax.png">
-
 ### ROC Curve and AUC Scores
 <img src="img/ROC.png">
-
 ### Cross-Validated Metrics
 <img src="img/CV.png">
