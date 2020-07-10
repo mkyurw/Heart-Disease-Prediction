@@ -25,3 +25,6 @@ The following are the features we'll use to predict our target variable (heart d
 * alco - binary - Alcohol intake - (0: no, 1: yes)
 * active - binary - Physical activity - (0: no, 1: yes)
 * cardio - binary - Presence or absence of cardiovascular disease - (0: no, 1: yes)
+
+## 5. Result
+<img src="models.png">
