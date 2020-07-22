@@ -31,6 +31,7 @@ The following are the features we'll use to predict our target variable (heart d
 
 ### Evaluate Models
 <img src="img/models.png">
+
 ### Accuracy Based on Model Predicting Time
 <img src="img/time.png">
 
