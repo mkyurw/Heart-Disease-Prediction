@@ -28,10 +28,14 @@ The following are the features we'll use to predict our target variable (heart d
 * cardio - binary - Presence or absence of cardiovascular disease - (0: no, 1: yes)
 
 ## 5. Result
-<img src="img/models.png">
 
-## 6. Tuned model (XGBoost)
-<img src="img/imp_XGB.png">
+### Evaluate Models
+<img src="img/models.png">
+### Accuracy Based on Model Predicting Time
+<img src="img/time.png">
+
+## 6. Tuned model (LightGBM)
+<img src="img/imp_lightgbm.png">
 
 ## 7. Evaluating a classification model
 
